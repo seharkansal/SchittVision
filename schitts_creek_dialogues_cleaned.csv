@@ -9,6 +9,7 @@ Alexis,"Baby, it's crazy, people are just like, taking our stuff!"
 Alexis,"I said, they're taking our stuff!"
 Alexis,"Can you just step out of the club for a second, ple..."
 Alexis,"Hold on, hold on! Those bags are not for you, my boyfriend bought those for me, so, theoretically, they are his!"
+Revenue agent,"Please ma'am, let us do our job"
 
 Revenue agent,"Please sir, can you step aside?"
 David,"No, you step aside! You step aside!"
@@ -19,6 +20,8 @@ David,Where are you taking that?!
 Moira,"My very soul has been kidnapped, there's no ransom, no one's coming to save me!"
 Johnny,"We've got 15 minutes to collect our personals, can we pick up the pace?!"
 Moira,Did you put Kristen with Robin? They don't like each other!
+Johnny,I dont have time for this Moira!
+
 Lawyer,"Eli really did a number, Johnny."
 Lawyer,"They're still looking for him, they think he's in the Caymans."
 Johnny,"He was our business manager, he's supposed to pay taxes!"
@@ -328,7 +331,7 @@ Johnny,Do I want you to call a plumber?
 Johnny,"Yes, yes I do. I want you call..."
 Johnny,You should already be on the phone.
 Johnny,Could you call a plumber?
-Stevie let's see if he's home... or conscious.
+Stevie,let's see if he's home... or conscious.
 Stevie,"He's a good guy, he's just a big drinker."
 Johnny,I also need a real estate agent.
 Johnny,The name of a good real estate agent right away.
@@ -1033,12 +1036,12 @@ David,"Why don't I start? Um, I'm miserable, drunk, and hate this game."
 David,"So... here's a hint... Sadly, I'm not drunk."
 Johnny,"Okay, wrong attitude. That's the wrong-right off the top!"
 Alexis,"Okay, my turn, my turn, my turn."
-Alexis,Um... okay. My eyes are brown, I am basically sample-sized, and one time I escaped from a Thai drug lord's car trunk by bribing him with sex.
+Alexis,"Um... okay. My eyes are brown, I am basically sample-sized, and one time I escaped from a Thai drug lord's car trunk by bribing him with sex."
 Johnny,"Right idea, honey, but you know what?"
 Johnny,It's gotta be more challenging for everybody-
 Moira,Her eyes are aqua.
-Johnny: You did what?
-Alexis: (Laughs) I'm kidding!
+Johnny,You did what?
+Alexis,(Laughs) I'm kidding!
 Alexis,I clearly would never bribe anybody with sex.
 Johnny,When were you in Thailand?!
 Alexis,I told you that I was on spring break.
@@ -1049,15 +1052,15 @@ David,"Um, I'm pretty sure just two."
 Johnny,"All right, that's enough. Good game."
 Johnny,"Good game, everybody! Alexis you're grounded."
 Johnny,"No! That was ten years ago, and everybody does dumb stuff in high school."
-Johnny: You were 17?!
+Johnny,You were 17?!
 Johnny,Did you know this?
 Moira,As if. I don't do girl talk.
-Alexis: Okay, everybody does dumb stuff everywhere.
+Alexis,"Okay, everybody does dumb stuff everywhere."
 Alexis,"For example, I saw Mutt today - the guy that lives in the barn - making out... with the mayor's wife."
-Moira: What's-her-face?!
+Moira,What's-her-face?!
 Moira,And the homeless kid?
 Alexis,Mm-hmm. Guys like that will bone anything.
-David,Well, not anything.
+David,"Well, not anything."
 Alexis, Stop!!
 David,'Cause that would mean...
 David,You. Which it doesn't.
@@ -1110,7 +1113,7 @@ Alexis,'Cause it... It seems to me like you get your stuff taken care of pretty 
 Alexis,"By multiple people, if you know what I mean."
 Alexis,"Look, I know you probably think that you're this handsome man around town who's like..."
 Alexis,"And handsome and homeless-y but you're better than that, you know?"
-Mutt,"What are you talking about?
+Mutt,"What are you talking about?"
 Alexis,"Like, I don't judge. Trust me."
 Alexis,"I have been... I have been in the middle of some very messy group scenarios and I know how weird it can be, so..."
 Mutt,"Are you okay Alexis?"
@@ -1190,7 +1193,7 @@ David,"I just found someplace else to put them"
 David,"Well, subconsciously I got through."
 Johnny,David? Alexis? Can you come here please?
 Johnny,"Well, how widespread is that news?"
-Moira,"He cut off his what?!
+Moira,"He cut off his what?!"
 Alexis,"Wait, what? - Johnny Okay."
 David,How did it happen?
 Johnny,"Look, I just, uh... I just want to make sure that, uh, you know, we're all okay."
@@ -1591,7 +1594,7 @@ David,"Well, how long are you going for?"
 Alexis,"Um, I don't really know. How long are you gonna be like this for?"
 David,Don't be a little bitch When I'm this state!
 
-Herb Ertlinger,Now, it's fruit wine, which is exciting in itself.
+Herb Ertlinger,"Now, it's fruit wine, which is exciting in itself."
 Herb Ertingler,But the thing we're most proud of is that our fruit is 100 insecticide free.
 Moira,There's something in mine.
 Herb Ertingler,"Oh, that's a ladybug. That's one of the good ones."
@@ -1604,7 +1607,7 @@ Herb Ertlinger,Sorry. I was looking into a new sprayer.
 Herb Ertlinger,And I brought you this...
 Herb Ertlinger,It's our Cabernet Merlot petit grenache.
 Johnny,"You know, uh, Herb, if you need any help with distribution, I have extensive contacts in that area, or if it's operations management..."
-Herb Ertingler, I appreciate it Johnny,but it's actually not your help I'm looking for.
+Herb Ertingler,"I appreciate it Johnny,but it's actually not your help I'm looking for."
 Herb Ertlinger,"No. It's you, Moira."
 Herb Ertlinger,We were hoping that you will be the spokesperson for Herb Ertlinger fruit wines.
 Moira,"I don't understand"
@@ -1718,9 +1721,9 @@ David,That might be a good thing for me.
 Alexis,"Okay, well, I'm not gonna go though."
 David,"That might help me relax, might help me calm down."
 Alexis,"David, I just said I'm not gonna go."
-David,I don't wanna have to bring this up...,But it's my turn to take a selfish.
+David,"I don't wanna have to bring this up...,But it's my turn to take a selfish."
 Alexis,"No, David"
-David,Yes, it is."
+David,"Yes, it is."
 Alexis,You selfished last time.
 David,"No. Dubai, 2010, I had to pick you up from that blind date that went terribly wrong."
 David,"It was a total disaster. It's my turn, and I wanna go to a yoga class."
@@ -1779,7 +1782,7 @@ David,I'm sure it is.
 Twyla,"And Alexis, you can join Mutt."
 Twyla,This is gonna be good for you. Just relax.
 David,"Oh, okay. All right."
-Jocelyn,"I know about your nervous breakdown David.
+Jocelyn,"I know about your nervous breakdown David."
 Jocelyn,"I was at the cafe. He didn't mention any names, but when he said it was someone ""precious,"" I knew."
 
 Director,"All right, get out of there, ladies! and Action!!"
@@ -1818,7 +1821,7 @@ Alexis,"Yeah, it is. I mean I-I haven't noticed."
 Alexis,"I have noticed, I haven't-"
 Alexis,"I haven't ""noticed"" noticed, so... Laughs awkwardly"
 Twyla,How're we doing here?
-Alexis,Um... this is a very challenging...Yoga class, Twyla. Thank you."
+Alexis,"Um... this is a very challenging...Yoga class, Twyla. Thank you."
 Twyla,"Thanks! Yeah, so just hold Mutt's lower back here just to support him."
 Twyla,"Let's bring it down... Oh, no!"
 Twyla,Mutt should support his own thigh.
@@ -1856,7 +1859,7 @@ Moira,You're daytime television's brightest star!
 Moira,All you have to do is go out there and shine.
 Moira,I'm gonna fucking Nail it.
 
-Twyla,And on a big inhale..identify any tension you may be holding and on a big exhale, breathe it out..
+Twyla,"And on a big inhale..identify any tension you may be holding and on a big exhale, breathe it out.."
 Jocelyn,Breathes out I burnt my sausage casserole.
 David,I'm pretty sure I'm really lonely here.
 
@@ -1911,9 +1914,9 @@ Moira,I'm sorry. I... I guess I'm stressed.
 Jocelyn,"You know, Moira, you ever need to just go somewhere to unwind and have some pampering, I know a great place in Elmdale."
 Moira,Let's not and say we did.
 Johnny,"You know, honey, a little pampering might not be a bad idea."
-Johnny,Could alleviate some of that weight your carrying around.
-Moira,So now I'm fat and stressed?
-Johnny,Emotional weight, Emotional!
+Johnny,"Could alleviate some of that weight your carrying around."
+Moira,"So now I'm fat and stressed?"
+Johnny,"Emotional weight, Emotional!"
 Moira,"John, go find a towel now, please, or I will strip out of this robe and I will air dry in the street!"
 Jocelyn,"Okay, well, I'm just gonna go home. Sorry."
 Moira,"No, no, no. I didn't say I didn't want them.Thank you"
@@ -1931,12 +1934,12 @@ Twyla,I've gotta check in the back and see what we have.
 Alexis,So Meadow Harvest doesn't refer to anything... in particular.
 Twyla,"No, Meadow Harvest is exactly how it sounds,It just changes everyday."
 Alexis,"Mm... okay. All right. Well, I'll just um..."
-Alexis,Do that that then... the Meadow Harvest thing.
-Ted,"Hi, Um, I just feel like I have to warn you, what you just ordered is gonna run through you like Niagara Falls.
+Alexis,"Do that that then... the Meadow Harvest thing."
+Ted,"Hi, Um, I just feel like I have to warn you, what you just ordered is gonna run through you like Niagara Falls."
 Ted,"Uh, she's a sweet girl but her smoothies are deadly."
 Ted,"Um, I usually prescribe them to my patients when they're feeling a little... backed up."
 Alexis,That's a lot of information.
-Ted,I'm... I'm... I'm kidding. I'm actually not.
+Ted,"I'm... I'm... I'm kidding. I'm actually not."
 Ted,I've absolutely done that... With her smoothies.
 Alexis,So are you a doctor or... ?
 Ted,I'm a veterinarian.
@@ -1962,12 +1965,12 @@ Stevie,Been doing it every year since I was far too young to be holding a gun.
 David,Yeah... yes. Yeah. Let's do that.
 Stevie,I was joking. I have a strong feeling that would not be your thing.
 David,"And what do think ""my thing"" is exactly?"
-Stevie,High thread count sheets, Colognes that smell like fireplace...
+Stevie,"High thread count sheets, Colognes that smell like fireplace..."
 David,"Okay. Well, it might surprise you to know that I have more than one thing, so I will happily go with you on the hunt!"
-David,Nothing would make me more excited than to shoot Turkeys... with you, So... is this a tweed or a camo situation?"
+David,"Nothing would make me more excited than to shoot Turkeys... with you, So... is this a tweed or a camo situation?"
 
 Johnny,"Okay, did anyone actually see this pillow come out of this container?"
-Moira,Seriously?! Go. To. Hell!You're off... you're a fool!
+Moira,"Seriously?! Go. To. Hell!You're off... you're a fool!"
 Johnny,"Okay, Moira, why are we doing this?"
 Johnny,Why don't we wait for the girl to come in and help us make the bed?
 Moira,"She never comes, John."
@@ -1980,8 +1983,8 @@ Jocelyn,"Oh, well, it's just a salon, so they don't really do all that kind of s
 Jocelyn,But she does give a mean scalp massage.
 Jocelyn,"If you requested that, I guess, yeah."
 Johnny,"Moira, this sounds too good to pass up."
-Johnny',"Please, please do this, for me."
-Johnny,Let me rephrase that,Do it for you because you deserve...
+Johnny,"Please, please do this, for me."
+Johnny,"Let me rephrase that,Do it for you because you deserve..."
 Moira,"Yes! My answer's yes, Jocelyn. Thank you."
 
 Alexis,"So, what're you doing tonight?"
@@ -2079,7 +2082,7 @@ Roland,"Well, I just wanna make sure you got the stomach for this 'cause you, yo
 Roland,"You know, delicate. Fragile. Scrimpy."
 Roland,Have you ever held a gun before?
 David,"Uh, yeah, but it wasn't this... heavy, which makes me think that Elton's was actually a toy."
-Roland,"All right, you gotta treat it like it's a newborn baby.
+Roland,"All right, you gotta treat it like it's a newborn baby."
 Roland,"Oh, you got soft hands."
 David,"Okay, thank you. Thanks."
 Stevie,You don't have to do this.
@@ -2122,7 +2125,7 @@ Ronnie,That's it. You're locked in. It's just you and him.
 Ronnie,"Whispering Just point and sht, David."
 David,"Hard to do when you're talking, Bob."
 Ronnie,"sht the bird, David! sht it!"
-Ronnie, honestly, if you're not gonna sht it, I..."
+Ronnie,"honestly, if you're not gonna sht it, I..."
 Ronnie,Just let it bleed out.
 David,"So, now what? Do we just Wait until its Turkey family comes and shot them too?"
 
@@ -2152,8 +2155,8 @@ Moira,"My son is hunting right now with your husband, so I... I know you people 
 David,"What about what we just did, makes you think,"
 David,"""yeah, you know what? I wanna do this year after year after year""?"
 David,Was it the lying in the mud part or was it... Wearing the clothes Sniffs
-David,That smell like menthol cigarettes and body odor?
-Stevie,'cause usually it's more fun,Usually Ray comes and... gets wasted and spends the whole day singing Carole King ballads.
+David,"That smell like menthol cigarettes and body odor?"
+Stevie,"cause usually it's more fun,Usually Ray comes and... gets wasted and spends the whole day singing Carole King ballads."
 
 Moira,"David, I Need a towel, please."
 David,Is that a new wig? Because...You are reminding me of someone.
@@ -2305,7 +2308,7 @@ Alexis,"What? No! Oh my God, no!"
 Alexis,"No, I'm just saying, generally speaking, when you order breakfast and they give you the wrong order, send it back and get the right order."
 Mutt,"I never return food, I think that's so rude."
 
-Johnny,"Oh, son of a bum! Son of a btch!
+Johnny,"Oh, son of a bum! Son of a btch!"
 Johnny,Argh! What the hell?!
 Roland,"Well, the good news is all you need is a new fan belt, and then you'll be right back on the road."
 Johnny,"Well, it was important I get to Elmdale today, Roland, I appreciate you helping me out."
@@ -2431,9 +2434,9 @@ Roland,"Oh! Laughs No, no, no, no, no."
 Roland,"It was not a consulting position, he was my assistant, he was like my little guy Friday."
 Roland,"He would fetch things for me, I'd tell him where to go and he'd go running off, and fetching things for me."
 Roland,What were some of the things you fetched?
-Roland,You fetched like uh..Coffee, you'd get that, and um..."
+Roland,"You fetched like uh..Coffee, you'd get that, and um..."
 Johnny,I get his coffee...
-Roland,Sometimes you'd have to.. you'd pick up, you know..."
+Roland,"Sometimes you'd have to.. you'd pick up, you know..."
 Johnny,"Cleaning, his dry cleaning."
 Roland,"Yeah, you'd have to do that, and then..."
 Roland,"How about these guys down there, those are boots."
@@ -2553,7 +2556,7 @@ Twyla,When does somewhere become there?
 Twyla,And when does there become here"
 Bob,"And I... it Just, just a coffee, please."
 
-Bob,Hi Johnny,You mind if I join you?
+Bob,"Hi Johnny,You mind if I join you?"
 Bob,I could use a little company today.
 Johnny,"Oh, no, no. You-you stay where you are and I'll... I'll come over there."
 Bob,"Yeah, Roland, he told me about your back and I..."
@@ -2877,7 +2880,7 @@ David,"I say we go with this one, it's the biggest."
 David,"Wow Ted, the place is very... New looking."
 David,Did you design the interior?
 Ted,"No, I found this website online that sells off old department store show rooms."
-Ted,So this whole room Just gets delivered, as is."
+Ted,"So this whole room Just gets delivered, as is."
 Ted,"This is the ""bachelor's den"" here, and then that's the ""executive dining lounge"" that I got on black Friday."
 Stevie,So... Are we the only ones showing up to this party?
 Ted,"No, we're still waiting for Mutt and Twyla."
@@ -2893,25 +2896,25 @@ Alexis,"It is, it's an exclusive little party."
 
 Roland,"Hey, who turned off don ho?!"
 Roland,"Oh hey, aloha, Roses!"
-Roland,Look who it is Its the Roses.
+Roland,"Look who it is Its the Roses."
 Johnny,"Hey! Yeah, there you go."
 Roland,"I gotta tell you, that suit, that's pretty dangerous to wear at a party like this!"
-Roland,I just wanna wipe my hands all over that!
-Johnny,You just keep getting funnier.
+Roland,"I just wanna wipe my hands all over that!"
+Johnny,"You just keep getting funnier."
 Roland,"I'm not joking though, I really do."
-Jocelyn,"Moira, I have to ask you, are those wigs real hair?"
-Jocelyn,"I just wanna reach out and just touch them-"
-Moira,"oh, please don't!"No, Maureen does not like to be manhandled!"
+Jocelyn,"I have to ask you, are those wigs real hair?"
+Jocelyn,"i just want to touch them"
+Moira,"oh please don't!No, Maureen does not like to be manhandled!"
 Roland,"Hey Roses, if I tell you a secret, you promise to keep it?"
 Johnny,"Uh no, I don't think we would, what is it?"
-Roland,Shh! Shh! Shh! Shh! Shh! Johnny...
+Roland,"Shh! Shh! Shh! Shh! Shh! Johnny..."
 Roland,"Now listen, I'm the guy in charge of upholding the law around here, so if you have any ideas about turning me in, you'd just be turning me in to myself!"
 Jocelyn,"Spark it up, Roley! Spark it up."
 Roland,"You got it, honey."
 Jocelyn,"Listen, I don't know if you guys wanna partake in this, because I'm sure your fancy dinner parties didn't have illegal substances!"
 Moira,"We had friends in the fda, but..."
-Johnny,Let this party begin.
-Rolandn,I'll fire up the cheese fountain!
+Johnny,"Let this party begin."
+Rolandn,"I'll fire up the cheese fountain!"
 
 David,Quietly No thank you.
 Ted,"So Mutt, did you two criminals do any good for the community today?"
@@ -3397,9 +3400,9 @@ Alexis,"Well, that's probably gonna have to change, but what else did you book f
 Ted,"Uh, well, we're staying at the Clarendon Executive Suites and apartments downtown."
 Alexis,Does that mean room service?!
 David,Had an idea for mom's stupid surprise party thing.
-David,What if we told her that it was a fund-raiser?
+David,"What if we told her that it was a fund-raiser?"
 David,"She'd have to say yes, right?"
-Alexis,Totally, she loves them"
+Alexis,"Totally, she loves them"
 David,"'Cause she'd have to come then, right?"
 David,She loves the fundraisers and...
 Ted,Wait. When's the big party?
@@ -3442,7 +3445,7 @@ Johnny,No. I want you to tell her.
 Roland,But that doesn't make any sense.I know it's her birthday.
 Johnny,You only know it's her birthday because I just told you it's her birthday.
 Johnny,Moira doesn't know you know it's her birthday.
-Roland I won't tell her.
+Roland,I won't tell her.
 Johnny,Why would you tell her?
 Roland,I won't tell her is what I'm saying to you.
 Roland,"I won't tell her, so don't worry about it."
@@ -3556,20 +3559,19 @@ Johnny,I will get the cake with your sister.
 Johnny,All you've gotta do is keep your mother under control.
 David,The North Korean army could not keep my mother under control when it comes to event planning.
 
-unkown,Country music plays on the radio
 Johnny,Sighs How long was I sleeping?
 Alexis,"I dunno, like forty-five maybe."
 Johnny,Sighs Where are we?
 Alexis,"Um, we're almost there."
-Alexis,"The last sign I saw said ""exit Elmdale,"" so..."
+Alexis,"The last sign I saw said exit Elmdale, so..."
 Alexis,"I haven't seen it yet, but..."
-Alexis,We should be getting there soon.
-Alexis,"The last sign said ""exit Elmdale?"""
+Alexis,"We should be getting there soon."
+Alexis,"The last sign said exit Elmdale?"
 Johnny,"Well, that was the exit to Elmdale."
 Johnny,"We've gone too far, we've gotta turn back!"
-Alexis,But you were sleeping!
+Alexis,"But you were sleeping!"
 Johnny,"Well, wake me up!"
-Alexis,No! Because you're so grumpy when you wake- like you're grumpy right now.
+Alexis,"No! Because you're so grumpy when you wake- like you're grumpy right now."
 
 Jocelyn,"Well, Moira, in regards to the decorations, David was kind enough to offer me an incredibly long list of the things to stay away from."
 Moira,"Darling, one does not just stick a red nose on it and call it an event."
@@ -3647,16 +3649,16 @@ Johnny,"There we go, my dear."
 Moira,"Wait, wait, wait. One last check."
 Moira,Like your father the day I married him.
 Moira,"Look at us, the Roses, attending this town's most illustrious fundraising gala."
-David,Whispers I think you're overselling it just a bit.
+David,"Whispers I think you're overselling it just a bit."
 Johnny,"Well, I don't see any stragglers, so shall we go in?"
-Johnny,I think we're fashionably late enough.
-Alexis,"There's nothing fashionable about this, but- 
+Johnny,"I think we're fashionably late enough."
+Alexis,"There's nothing fashionable about this, but- "
 Johnny,"after you, my dear."
-Moira,Where are all the patrons?
+Moira,"Where are all the patrons?"
 Johnny,"Well, I don't know. Do we have the wrong night?"
-Everyone,Surprise!!
-Moira,Over-the-top shock What?! There's no fundraiser?!
-Moira,You're just here to celebrate me?
+Everyone,"Surprise!!"
+Moira,"Over-the-top shock What?! There's no fundraiser?!"
+Moira,"You're just here to celebrate me?"
 Moira,"Oh, never in the history of surprises has one been so delightfully blindsided."
 Johnny,"Okay, who told her?"
 
@@ -3681,13 +3683,13 @@ Mutt,But um... you clean up well.
 Alexis,"I wore this thing to prom like a thousand years ago, but... it did bring me some luck that night, so I wore it here tonight."
 Alexis,You were planning on getting lucky tonight?
 Mutt,So um... where is Ted? Chuckles uncomfortably
-Alexis,Um... he is at um...Like a... a conference or something tonight, so..."
+Alexis,"Um... he is at um...Like a... a conference or something tonight, so..."
 Mutt,Do you wanna dance?
-Alexis,Yes I do"
+Alexis,"Yes I do"
 Ted,"Alexis!!"
-Alexis What're you doing here?
+Alexi,"What're you doing here?"
 Ted,"Well, I had someone take my last seminar."
-Ted,I didn't wanna miss this.
+Ted,"I didn't wanna miss this."
 Ted,"Come on, let's dance."
 
 Moira,"Oh, I love my party, John."
@@ -3884,17 +3886,17 @@ Johnny,"Well, bursting seems to be the operative word."
 Roland,"Whoa! Slow down there, pal!"
 Roland,We got dinner coming and a big desert after...
 Roland,Sex in a pan.
-Roland,Then we'll have dessert!
-Andy,I love it! This guy's a prince. He's a prince!
+Roland,"Then we'll have dessert!"
+Andy,"I love it! This guy's a prince. He's a prince!"
 
-Moira,So... did you try it on?
-Moira,the coat. The one I gave you.
-Jocelyn,Lying Yes. It's... it's great, buttoned right up.
-Moira, It zips.
-Jocelyn,Zips. It zipped right up!
+Moira,"So... did you try it on?"
+Moira,"the coat. The one I gave you."
+Jocelyn,"Lying Yes. It's... it's great, buttoned right up."
+Moira,"It zips."
+Jocelyn,"Zips. It zipped right up!"
 Moira,"You didn't try it on, did you?"
-Jocelyn,"No. Moira 
-Moira,Oh, why not?,It's a great coat! At least let us see it on you.
+Jocelyn,"No. Moira"
+Moira,"Oh, why not?,It's a great coat! At least let us see it on you."
 Jocelyn,Fridge door slams I gave it away.
 Jocelyn,"It just... it didn't suit me and... I thought about Ronnie and you know she could always use some more feminine pieces in her wardrobe, and so I took it over to her and she really liked it, so I paid it... forward."
 Moira,"Well, Jocelyn, there are... certain things that are just not done Smoking in a car with a baby, unless you crack a window; tipping before tax; mixing drinks with cola; and giving away a coat that doesn't belong to you."
@@ -4140,9 +4142,9 @@ Ted,"It's just... you had said that you wanted to get married if you weren't lea
 Alexis,And I totally get that.
 Alexis,"Technically though, someone did leave, and so the dust just hasn't really settled on the whole... us leaving thing."
 Alexis,But obviously I want to be with you!
-Alexis,I'm just so scared.
+Alexis,I"'m just so scared."
 Ted,"What, about David, or about being with..."
-Alexis,Yeah,that.
+Alexis,"Yeah,that."
 
 Johnny,All we know is the truck ran out of gas on an amish farm.
 Stevie,So David has been living on an amish farm for three days?
@@ -4486,7 +4488,7 @@ David,"If you say ""fold in"" one more time..."
 Moira,"It says, fold it in!"
 David,This is your recipe!
 David,"You fold in the cheese, then!"
-Moira,David, dont you dare
+Moira,"David, dont you dare"
 David,You fold it in!
 Moira,"Oh good, now I see bubbles."
 Moira,David! What does burning smell like?!
@@ -4512,10 +4514,10 @@ Alexis,"You're the perfect boyfriend, Ted."
 Ted,"I knew there was a ""but."""
 Alexis,"No, no, no! There is no ""but."""
 Alexis,But you're just not the perfect boyfriend for me.
-Alexis,And I don't-i don't think that I'm in this enough to take it to the next level.
+Alexis,"And I don't-i don't think that I'm in this enough to take it to the next level."
 Alexis,"So that does mean that I don't think that I can accept, your proposal."
 Ted,"Yeah, no, I pieced that part together."
-Ted,Well, Thank you.
+Ted,"Well, Thank you."
 Alexis,for what?
 Alexis,"Well, I wouldn't want to marry someone who didn't feel about me the same way that I feel about them."
 Alexis,"Oh wow, could you make this any harder?"
@@ -4596,7 +4598,7 @@ Johnny,"Not bad. Not bad, you two!"
 Johnny,Not bad at all!
 Alexis,"Very creamy."
 Moira,Thank you Alexis.
-Johnny,Well, this could be a very good thing!"
+Johnny,"Well, this could be a very good thing!"
 Johnny,"I think maybe once, or twice a week..."
 David,This won't be happening again.
 Moira,"Although it's really not that complicated, once you fold in the cheese!"
@@ -4607,7 +4609,7 @@ Moira,"Honestly David, why are you not ready?"
 David,I am not going.
 David,How is it that a moth can find its way into a triple locked titanium suitcase?!
 Moira,The perils of owning cashmere.
-Moira,Alexis,please dear.
+Moira,"Alexis,please dear."
 David,Alexis hasn't been here for a week and a half.
 Moira,"Well, that's simply not true."
 Moira,I had breakfast with her just yesterday.
@@ -4852,8 +4854,8 @@ David,"That's-again, that's... You said that?"
 Alexis,"Yeah, that's what we were talking about."
 David,"Oh, okay. Um... and how did he take that?"
 Alexis,"Um, well, I mean, I was kinda worried about telling him."
-David,I'm sure. Uh huh.
-Alexis,Because I didn't want...I didn't wanna hurt him, and I didn't want him to worry, like, oh my God, is he breaking up with me?"
+David,"I'm sure. Uh huh."
+Alexis,"Because I didn't want...I didn't wanna hurt him, and I didn't want him to worry, like, oh my God, is he breaking up with me?"
 Alexis,Is she breaking up with me?
 David,"Right, yeah, 'cause we wouldn't want him... to worry about that."
 Alexis,"So... but I'm really glad that I told him, and he took it really, really well."
@@ -5440,7 +5442,7 @@ Johnny,"Wow, well, no one is making any bagels."
 baker,You want me to start unloading?
 Johnny,"Ivan, would you excuse us for a minute?"
 Johnny,I just wanna have a word with Bob.
-baker-sure!
+baker,-sure!
 Johnny,"Could you stand, and excuse us?"
 baker,"All right, oh, okay."
 Bob,I'll meet you out there in a minute.
@@ -5462,21 +5464,21 @@ David,I'll be right back.
 
 Stevie,Hi! How much longer do you expect me to wait in the car like some hired chauffeur?!
 David,"Um, yeah, I'm gonna need you to do something for me."
-Stevie,Like drive home without you?
+Stevie,"Like drive home without you?"
 David,"Uh no, Wendy has got me on a bit of a trial run with the customers, and I'm gonna need you to help me out by looking like you're enjoying this conversation a little more than you are, um, I'm gonna need you to buy a couple blouses from me."
-Stevie,WHat about this blouse?
+Stevie,"WHat about this blouse?"
 David,"Well, that's not an option."
-Stevie,But I have my sister's communion this weekend.
+Stevie,"But I have my sister's communion this weekend."
 David,"Okay, don't do that."
 Stevie,"Do you not like it? 
-David,"Don't, 
-Stevie,"This is gonna be a smash at my husband's trial hearing.
-Stevie,He's got good taste.
+David,"Don't"
+Stevie,"This is gonna be a smash at my husband's trial hearing."
+Stevie,"He's got good taste."
 David,"Okay, so I've pulled a few options."
 David,Or we can go with what we have.
 
 Moira,"Alexis"
-Moira,The woman at the general store said a girl in Elmdale recently contracted avian flu.
+Moira,"The woman at the general store said a girl in Elmdale recently contracted avian flu."
 Moira,So I got you a bit of everything.
 Moira,Oh... I see you're already being taken care of.
 Moira,I didn't realize you were feeling well enough for company.
@@ -5492,7 +5494,7 @@ Moira,"Oh dear, are we sure this isn't just mono again?"
 Moira,"What with your symptoms, and your lifestyle?"
 Mutt,"Mrs. Rose, I don't have mono."
 Moira,"Oh no offense dear, could be others."
-Mutt,Get some rest ALexis"
+Mutt,"Get some rest ALexis"
 Alexis,"BYE"
 Alexis,Weren't you supposed to be at choir practice mom?
 Moira,I supposed to be there over an hour ago.
@@ -5819,7 +5821,7 @@ Mutt,Maybe that's the problem.
 Alexis,"No, no, I'm not saying that there's a problem, I'm just saying that there are definitely a few things between us that need to be adjusted in order to make this work for us."
 Alexis,"Like maybe I need to talk less and listen more, and you need to talk more, and listen less."
 Mutt,And are you willing to make these adjustments?
-Alexis,"Well...are you?
+Alexis,"Well...are you?"
 Twyla,I brought two forks.
 Twyla,Just in case you wanted to share.
 
@@ -6022,7 +6024,7 @@ Roland,"Yeah, like that's going to make a difference."
 David,Exciting Afternoon?
 Stevie,"Thrilling, can't you tell?"
 David,What are you doing tonight?
-Stevie,I am busy, I am going out
+Stevie,"I am busy, I am going out"
 David,With who?
 Stevie,Does it matter?
 David,Where are you going?
@@ -6812,12 +6814,12 @@ Moira,"Oh, and make sure you submit those photos to the Internet."
 Moira,"yes Otherwise, your own children will go looking for them one day and tragically, they won't be there."
 
 David,"Okay, so how much money do you need?"
-David,And please keep in mind that I had a negative balance in there last week.
+David,"And please keep in mind that I had a negative balance in there last week."
 Johnny,"Yeah, whatever you can spare."
 Johnny,"You know, a couple hundred, three..."
 David,"Okay, how much do you actually need, though?"
-Johnny,560.00 
-David,so my entire paycheck, then."
+Johnny,"560.00 "
+David,"so my entire paycheck, then."
 Johnny,It says there's an error with your pin.
 David,I can see that! I can see that!
 Johnny,"All right, calm down, calm down."
@@ -7075,7 +7077,7 @@ Alexis,"Okay. Um, well, what am I supposed to tell Doris?"
 Ted,Don't say anything to her.
 Ted,"Just keep her company while I figure this out, okay?"
 Alexis,"Okay, so I'm just supposed to act like nothing happened?"
-Ted,Yeah,for now.
+Ted,"Yeah,for now."
 Alexis,"Um, how am I supposed to do that?"
 Ted,Alexis!!
 Alexis,Okay yeah!
@@ -7321,8 +7323,8 @@ Alexis,"I know, it's cute though, right?"
 Stevie,I wouldn't really describe any apartment as cute in this town.
 
 David,Hi?
-Alexis,Um,hi.
-David,There's a collection of undershirts hang drying outside of my room.
+Alexis,"Um,hi."
+David,"There's a collection of undershirts hang drying outside of my room."
 David,"Um, is there any way they could be removed, or is there like, a Texas Chainsaw movie being filmed out there that I'm not aware of?"
 Stevie,"Actually, Roland is staying here for a few days."
 Alexis,That is disgusting
@@ -7828,7 +7830,7 @@ Johnny,And-and the thought of working with Roland every day.
 Johnny,I wouldn't even think about that.
 Moira,"Oh, John. What have I done?"
 
-Moira,40,000$!!
+Moira,"40,000$!!"
 Alexis,"Oh, that's a lot of money."
 Johnny,Wow! Even divided amongst the four of us.
 David,Divided? I'm the one who negotiated all of this.
@@ -8212,7 +8214,7 @@ Moira,"If you take half as much care of our son as you do your physique, Okay!"
 Moira,David should be in very good hands.
 David,Oh my god what is wrong with you?
 Johnny,"Yes, well, not-not your hands, Mhmm, yep. Bye! but uh... generally speaking..."
-David,"yEP,BYE!!
+David,"yEP,BYE!!"
 Alexis,"Well, I hope it was worth it Jake"
 David,"Okay, I think you can take a step outside."
 David,You can step outside while this is happening.
@@ -8240,7 +8242,6 @@ Bob,"Johnny, you're putting me in a bit of a pickle here."
 Bob,"You know, obviously I'd like to keep you both."
 Bob,"But there's uh... a cardboard box over there, you know, if you do feel like you wanna... you know, pack up your things."
 
-unkown,"Bell jingles, door slams"
 David,Hi!
 Stevie,Hi!
 Jake,Hi!
@@ -8257,7 +8258,7 @@ Jake,"Well, I should probably head."
 Jake,"I've got a ton of work to do, so..."
 Stevie,Bye
 David,"I'll be in touch, all right David?"
-David,Okay,yeah,okay,yeah
+David,"Okay,yeah,okay,yeah"
 Stevie,What the flying bleep is going on here?!
 David,I was gonna ask you the same thing!
 David,"Uh, what was that?!"
@@ -9139,14 +9140,14 @@ Moira,"Well, nonsense, dear, we can certainly pay full freight."
 Moira,You save that discount for someone who needs it!
 Johnny,"Yes, okay. Dear, look."
 Johnny,We really would appreciate any financial assistance.
-Moira,Or perhaps we might have to take our business to a dealership that sells brand new cars.
+Moira,"Or perhaps we might have to take our business to a dealership that sells brand new cars."
 Johnny,"As you can see, we can't even afford her meds right now."
 Sarah,I'll get the paperwork started.
 Johnny,"Here we go, dear, here's the chair."
 
 Alexis,"Hey, so I'm headed out, and I will drop off the flea shampoo for Ms. Warner's cat."
 Ted,"Sorry, what did Mrs. Warner say?"
-Alexis,"She called to ask if you would drop off flea shampoo, and she also asked if you would wash her cat, but I said that you were too busy.
+Alexis,"She called to ask if you would drop off flea shampoo, and she also asked if you would wash her cat, but I said that you were too busy."
 Ted,"Oh. Y-yeah. Uh okay, you know what, I got this."
 Alexis,I'm happy to do it.
 Alexis,Um... do we even have flea shampoo?
@@ -9673,7 +9674,7 @@ Moira,And would that be a note?
 Moira,"A note, coming from my son?!"
 Moira,"Who I carried for almost a full seven months, to an actress who has been short-listed for more than seven major made for television motion pictures?"
 Moira,The script is nothing more than a jumping off point.
-David"Oh! okay."
+David,"Oh! okay."
 Moira,"Let's take it again, I'll count myself in."
 Moira,"Five, four, three, two..."
 
@@ -9772,7 +9773,7 @@ David,"Subject line, ""The Crows Have Eyes II."""
 Moira,"I don't know, I'd like you to read it, please."
 Moira,What'd they say about me?
 David,"You booked it!!"
-Moira,"Oh David, I did!?
+Moira,"Oh David, I did!?"
 Moira,What they say about me?
 David,They need you to sign the contract
 Moira,Thats standard!
@@ -9833,7 +9834,7 @@ Roland,"Ah, I'd love to see that!"
 Twyla,"So, I was thinking for the chorus..."
 Twyla,"We could sway, like we're actually islands in the stream."
 Jocelyn,"Oh yeah, that's good."
-Moira,"Hi I am here!
+Moira,"Hi I am here!"
 Jocelyn,"Moira, what about your big movie?"
 Moira,"Oh that, they're still hounding me, but... I took a moment to stop and think about what is really important in life, and while the Bosnian Riviera is a majestic locale, it can't hold a candle to singing... with you wonderful working women here, in our makeshift rehearsal studio."
 Jocelyn,"Well, I'm flattered, but Twyla's been working on your part for the duet, and I really don't think that that would be in the spirit of things to take that from her."
@@ -10151,7 +10152,7 @@ Moira,Twyla was set to throw a fiasco until I exerted my influence.
 David,"Uh yeah, and the way Twyla keeps asking about where you are, I'm pretty sure you're the mrderr."
 Moira,They'll never catch me.
 
-Moira,Alexis,we sent you to high-school in Switzerland because we trusted you!
+Moira,"Alexis,we sent you to high-school in Switzerland because we trusted you!"
 Johnny,"That school cost 250,000 dollars!"
 Alexis,"I know, and I felt so bad about it."
 Alexis,And that is why I missed my final semester.
@@ -10228,27 +10229,29 @@ Jocelyn,"Maybe you could talk between classes, or after school, or on the weeken
 Alexis,"So just find me after class, or..."
 
 Ivan,"Sorry I'm late, but I have morning muffins."
-Ivan,"Yeah, they keep selling out."
+Twyla,"Yeah, they keep selling out."
 Ivan,"Yes, yes, yes, yes, bagels."
-Ivan,"Oh, I see you have a new enterprise."
+Johnny,"Oh, I see you have a new enterprise."
 Ivan,"Yeah, it was always my dream to bake muffins."
-Ivan,"Well, funny you should mention it, because I'm thinking of doing a continental breakfast at the motel, and this could be uh... very helpful."
+Johnny,"Well, funny you should mention it, because I'm thinking of doing a continental breakfast at the motel, and this could be uh... very helpful."
 Ivan,Yeah. I not make breakfast.
-Ivan,"No, no, no, a continental breakfast, just pastries and coffee."
-Ivan,"Oh, I wouldn't expect you to make the coffee."
+Johnny,"No, no, no, a continental breakfast, just pastries and coffee."
+Johnny,"Oh, I wouldn't expect you to make the coffee."
 Ivan,"No, I make coffee, but only for myself."
-Ivan,"Yeah, no, no, it's just your muffins that I'm interested in."
+Johnny,"Yeah, no, no, it's just your muffins that I'm interested in."
 Ivan,I bake for Twyla.
-Ivan,"Oh, but it's always nice to have new customers."
-Ivan,"Yes, yes, I think we should talk about this, Ivan."
-Ivan,"Yeah, I'd love to see your operation."
+Johnny,"Oh, but it's always nice to have new customers."
+Johnny,"Yes, yes, I think we should talk about this, Ivan."
+Johnny,"Yeah, I'd love to see your operation."
 Ivan,"Uh yeah, yeah, yeah, just come by place and I show you kitchen."
-Ivan,Yes. Yeah. Clearing his throat
-Twyla,"Wow, this could be very exciting."
-Twyla,"You know, a continental breakfast could add an extra star on our rating."
+Johnny,Yes. Yeah
+Johnny,"Wow, this could be very exciting."
+Johnny,"You know, a continental breakfast could add an extra star on our rating."
 Twyla,"Oh wow, so how many stars would that give you?"
+Johnny,One!
+
 Roland,"So, there are carols playing, and it snows inside all day long."
-Roland,Gwen's gonna lose her mind!
+Bob,Gwen's gonna lose her mind!
 Roland,No need to terminate your chitter-chatter on our accounts.
 Roland,"You gonna tell them, or should I?"
 Roland,"Ladies, um we have some good news..."
