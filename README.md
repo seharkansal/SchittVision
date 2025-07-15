@@ -103,4 +103,22 @@ If any page failed to load (e.g. due to a 404 error), the script printed a clear
 
 A structured, episode-spanning dataset of Schitt’s Creek character dialogues.
 
+🧠 Why Create Input–Target Pairs?
+Input–target pairs are created because most NLP tasks are framed as prediction problems — we want the model to predict something (target) given some text (input).
+
+📌 My project Context (Schitt’s Creek Dialogue)
+I collected and cleaned dialogues. Now what?
+
+To use them in machine learning or deep learning models (e.g., for chatbots, character recognition, emotion tagging, etc.), I needed to transform the raw text into a supervised learning format — typically:
+Input:  [some text]
+Target: [some label or expected output]
+📊 Example Tasks & Why You Need Input–Target Pairs
+1. 💬 Chatbot / Dialogue Generation (next-line prediction)
+Goal: Given a character’s line, predict what the next character might say.
+
+Input	Target
+David: You're embarrassing me.	Alexis: Can you just step outside?
+
+This helps train a seq2seq model or transformer decoder.
+
 
