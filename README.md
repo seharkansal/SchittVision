@@ -121,4 +121,35 @@ David: You're embarrassing me.	Alexis: Can you just step outside?
 
 This helps train a seq2seq model or transformer decoder.
 
+Emotion Detection Labeling in Dialogue Dataset
+After generating the input-target dialogue pairs from the cleaned transcript dataset, the next key step was to enrich the data by attaching emotion labels. These emotion labels provide additional context to each dialogue line, helping the model understand not just what is said but how it is said, which is essential for tasks like emotionally aware conversational AI or sentiment-sensitive text generation.
+
+Overview of the Process
+Emotion Detection on Dialogue Lines
+Each dialogue line—both inputs and targets—was analyzed using an emotion detection method:
+
+Using BERT pre-trained emotion classification models 
+
+Assigning one or more emotion categories such as joy, anger, sadness, fear, surprise, and neutral to each dialogue.
+
+Attaching Emotion Labels
+The detected emotion(s) were appended or associated with each dialogue in the input-target pairs dataset. This are embedded within the input text as special tokens to signal emotional tone to downstream models
+
+Benefits of Emotion Labeling
+
+Richer training data: Emotion labels provide a semantic layer beyond plain text, which improves the model's ability to generate contextually appropriate and emotionally consistent responses.
+
+Improved conversational AI: Models trained on emotion-enriched data can better capture the nuance and emotional dynamics of dialogues.
+
+Analytical insights: Emotion labels allow for analysis of emotional trends in the dialogue, helpful for further research or application development.
+
+Dataset Format After Labeling
+The final dataset format included, for each dialogue pair:
+
+Input dialogue text (possibly concatenated context)
+
+Target dialogue text
+
+Emotion label(s) for input and target dialogues
+
 
