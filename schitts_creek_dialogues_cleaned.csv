@@ -10240,7 +10240,7 @@ Johnny,"Oh, I wouldn't expect you to make the coffee."
 Ivan,"No, I make coffee, but only for myself."
 Johnny,"Yeah, no, no, it's just your muffins that I'm interested in."
 Ivan,I bake for Twyla.
-Johnny,"Oh, but it's always nice to have new customers."
+Twyla,"Oh, but it's always nice to have new customers."
 Johnny,"Yes, yes, I think we should talk about this, Ivan."
 Johnny,"Yeah, I'd love to see your operation."
 Ivan,"Uh yeah, yeah, yeah, just come by place and I show you kitchen."
@@ -10252,77 +10252,80 @@ Johnny,One!
 
 Roland,"So, there are carols playing, and it snows inside all day long."
 Bob,Gwen's gonna lose her mind!
-Roland,No need to terminate your chitter-chatter on our accounts.
+Moira,No need to terminate your chitter-chatter on my account.
 Roland,"You gonna tell them, or should I?"
 Roland,"Ladies, um we have some good news..."
-Roland,Christmas world! Moving into town!
+Bob,Christmas world! Moving into town!
 Roland,"Bob, okay, there's a way to do these things, and I'm the one who's supposed to lead these meetings, all right?"
 Roland,They wanna take over the general store.
 Roland,"It's just, you know, it's big news."
-Roland,And what on earth is a Christmas World?
+Moira,And what on earth is a Christmas World?
 Roland,They sell Christmas stuff all year round.
-Roland,But is this really the kind of business we want in this town?
-Roland,"You know, I have yet to find an ornament in there that I'd put on my tree, And I heard those little elves they have running around, they're actually underage kids."
+Moira,But is this really the kind of business we want in this town?
+Ronnie,"You know, I have yet to find an ornament in there that I'd put on my tree, And I heard those little elves they have running around, they're actually underage kids."
 Roland,"Ladies, if we don't approve this, then Christmas World will take its fake snow, and its all-you-can-drink nog fountain to Elmdale!"
-Roland,"Well, that makes our decision easy."
-Roland,"A word to the wise, okay?"
+Moira,"Well, that makes our decision easy."
+Roland," Moira, A word to the wise, okay?"
 Roland,You don't vote against Christmas.
 Roland,"Well, I'm not voting for it."
 Moira,I'm inclined to side with Veronica on this.
-Moira,"All right, look guys, this is a big decision."
-Moira,Let's take a little time to think about it.
-Moira,We don't wanna get on their naughty list.
+Roland,"All right, look guys, this is a big decision."
+Roland,Let's take a little time to think about it.
+Roland,We don't wanna get on their naughty list.
+
 Ivan,This is where I bake.
 Ivan,I have three ovens.
 Ivan,Is tradition in my family.
 Ivan,"We make vatritza, burek, gibantsa... and now I making uh, Danish, eclair, American-style toaster popping tart."
-Ivan,"Wow, that sounds great, Ivan, but I was thinking... cinnamon buns."
-Ivan,"You know, the smell of cinnamon in the motel lobby, mmm!"
+Johnny,"Wow, that sounds great, Ivan, but I was thinking... cinnamon buns."
+Johnny,"You know, the smell of cinnamon in the motel lobby, mmm!"
 Ivan,"Mr. Rose, for you, I can make anything."
 Ivan,"Blueberry bun, butter tart, blueberry butter tart with raisin, blueberry butter tart with chips of chocolate..."
-Ivan,"Well, let's just stick with cinnamon buns for now, and if this works, we'll take it from there."
+Johnny,"Well, let's just stick with cinnamon buns for now, and if this works, we'll take it from there."
 Ivan,And I'm giving you special price.
 Ivan,Because you know Twyla.
 Ivan,I watch you make her laugh.
 Ivan,You watch me make her laugh?
-Ivan,"Oh, so you... you like Twyla!"
-Ivan,"Oh, well, you should uh... talk to her, I guess."
+Johnny,"Oh, so you... you like Twyla!"
+Johnny,"Oh, well, you should uh... talk to her, I guess."
 Ivan,"No, no, I can't."
 Ivan,"I try, but when I speak, is like many, many muffin in my mouth."
 Ivan,You talk for me?
-Ivan,"Oh, no, no, no, I wouldn't be too comfortable doing that, no."
+Johnny,"Oh, no, no, no, I wouldn't be too comfortable doing that, no."
 Ivan,You just say nice thing.
 Ivan,I'll give you cinnamon bun for free.
 Ivan,"You say, he's a good man, hard worker, never hurt no one."
-Ivan,"Well, I wouldn't lead with that but uh... no, no, I think this is better coming from you."
-Ivan,"So, I have some news."
-Ivan,"Oh David, I'm not sure I'm in the mood to hear about another sexual exploit."
-Ivan,"I'm sorry, who is it this time?"
-Ivan,I have actually been thinking about going back to work.
-Ivan,You've received an offer?
-Ivan,"Um, it's more of a plan for an idea of a-a thing that I will be working at."
-Ivan,"Well, that sounds less concrete, but full of promise, I'm sure."
-Ivan,I know you've been moping about the motel for some time now.
-Ivan,"Um, and from that decompression came the idea to start my own business."
-Ivan,And just what is this exciting new venture?
-Ivan,I plan to submit a lease application for the general store.
-Ivan,Not seizing on this opportunity.
-Ivan,"Well, I'll be investing some of the money I got from the Blouse Barn."
-Ivan,"Mhmm, a bold decision."
-Ivan,Especially since the previous business has since gone under.
-Ivan,"Dare I say, the space might be cursed?"
-Ivan,"Okay, the general store was a disaster."
-Ivan,And your plan is to raise it from the ashes?
-Ivan,"Well, that's a risky move on the part of your investors."
-Ivan,I don't have any investors.
-Ivan,I am doing this all on my own.
-Ivan,All on your own?
-Ivan,"Yeah, I've actually given it a lot of thought."
-Ivan,You're the that's been telling me to get back to work!
-Ivan,"What, I'm simply asking questions!"
-Ivan,"No, you're not, you're just repeating random things that I've been saying!"
-Ivan,"Oh, far be it from me to stand in your way while you roll the dice with your hard-earned savings!"
-Ivan,That's all you had to say.
+Johnny,"Well, I wouldn't lead with that but uh... no, no, I think this is better coming from you."
+
+David,"So, I have some news."
+Moira,"Oh David, I'm not sure I'm in the mood to hear about another sexual exploit."
+Moira,"I'm sorry, who is it this time?"
+David,I have actually been thinking about going back to work.
+Moira,You've received an offer?
+David,"Um, it's more of a plan for an idea of a-a thing that I will be working at."
+Moira,"Well, that sounds less concrete, but full of promise, I'm sure."
+Moira,I know you've been moping about the motel for some time now.
+David,"Um, and from that decompression came the idea to start my own business."
+Moira,And just what is this exciting new venture?
+David,I plan to submit a lease application for the general store.
+Moira,Not seizing on this opportunity.
+David,"Well, I'll be investing some of the money I got from the Blouse Barn."
+Moira,"Mhmm, a bold decision."
+Moira,Especially since the previous business has since gone under.
+Moira,"Dare I say, the space might be cursed?"
+David,"Okay, the general store was a disaster."
+Moira,And your plan is to raise it from the ashes?
+Moira,"Well, that's a risky move on the part of your investors."
+David,I don't have any investors.
+David,I am doing this all on my own.
+Moira,All on your own?
+David,"Yeah, I've actually given it a lot of thought."
+David,You're the that's been telling me to get back to work!
+Moira,"What, I'm simply asking questions!"
+David,"No, you're not, you're just repeating random things that I've been saying!"
+Moira,"Oh, far be it from me to stand in your way while you roll the dice with your hard-earned savings!"
+David,That's all you had to say.
+
 Ivan,"The only people who buy silver trees are serial Kllers, and single men over 40, and my cousin, who is a single man over 40."
 Ivan,"Oh, what a startling little tannenbaum."
 Ivan,To whom do we owe our reciprocity for this yuletide gift?
